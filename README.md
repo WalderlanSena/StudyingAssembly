@@ -59,7 +59,7 @@ ld -m elf_i386 -o file file.asm
 ## :page_facing_up: License
 GNU **General Public License** (Licença Pública Geral), GNU GPL ou simplesmente GPL, é a designação da licença 
 para software livre idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation (FSF).
-<https://pt.wikipedia.org/wiki/GNU_General_Public_License>
+<https://www.gnu.org/licenses/gpl-3.0.en.html>
 
 ## Sobre 
 
