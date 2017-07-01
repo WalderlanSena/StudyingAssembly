@@ -31,7 +31,7 @@ eax | Nome    | ebx     | ecx | edx | esx | edi
 ```assembly
 
 section .text
-  global _start ; informa o liker (ld) qual é o ponto de entrada
+  global _start ; informa o linker (ld) qual é o ponto de entrada
 
 _start:     ; ponto de entrada
 
