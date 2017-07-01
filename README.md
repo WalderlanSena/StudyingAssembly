@@ -1,6 +1,12 @@
 # Estudando Assembly
 Repositório com código de estudo da linguagem de programação Assembly
 
+# O que é a linguagem Assembly?
+
+**Assembly** ou **linguagem** de montagem é uma notação legível por humanos para o código de máquina que uma arquitetura 
+de computador específica usa, utilizada para programar códigos entendidos por dispositivos computacionais, como 
+microprocessadores e microcontroladores. [Fonte: wikipedia](https://pt.wikipedia.org/wiki/Assembly)
+
 <h1 aling="center">
   Compilador <img src="http://www.nasm.us/images/nasm.png">
 </h1>
