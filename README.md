@@ -1,5 +1,5 @@
-# Estudando Assembly
-Repositório com código de estudo da linguagem de programação Assembly
+<h1 align="center">Estudando Assembly</h1>
+<p align="center">Repositório com código de estudo da linguagem de programação Assembly</p>
 
 # O que é a linguagem Assembly?
 
