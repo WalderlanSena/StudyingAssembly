@@ -10,7 +10,7 @@ microprocessadores e microcontroladores. [Fonte: wikipedia](https://pt.wikipedia
 <h1 aling="center">
   Compilador <img src="http://www.nasm.us/images/nasm.png">
 </h1>
-<p aling="center"><a href="http://www.nasm.us"><strong>Visite nasm.us &raquo;</strong></a></p>
+<p align="center"><a href="http://www.nasm.us" target="_blank"><strong>Visite nasm.us &raquo;</strong></a></p>
 
 ## System	Calls
 
@@ -45,6 +45,11 @@ mov ebx, 0  ; valor de retorno para o SO(Sistema Operacional)
 mov eax, 1  ; valor da syscall exit()
 int 0x80    ; chamando o kernel
 ```
+
+<p align="right">
+  :page_with_curl: <a href="https://w3challs.com/syscalls/" target="_blank">Saiba mais sobre <strong>sysCalls</strong></a>
+</p>
+
 ### :computer: Utilização
 
 **Compilado um novo software**
@@ -70,7 +75,7 @@ para software livre idealizada por Richard Matthew Stallman em 1989, no âmbito 
 ## Sobre 
 
 <p align="center">
-  <a href="https://www.mentesvirtuaissena.com/" target="_black">
+  <a href="https://www.mentesvirtuaissena.com/" target="_blank">
     <img src="http://www.walderlan.xyz/wal.png" title="Desenvolvedor: Walderlan Sena" width="180" height="180">
     <img src="http://www.walderlan.xyz/assembly.png" title="Sobre o projeto Studying Assembly" width="180" height="180">
   </a>
